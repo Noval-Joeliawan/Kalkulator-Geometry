@@ -1,0 +1,7 @@
+# Python standard libraries used (built-in, no install needed):
+# - tkinter
+# - math
+# - random
+
+# Build & deployment toolchain:
+pyinstaller>=6.0.0
