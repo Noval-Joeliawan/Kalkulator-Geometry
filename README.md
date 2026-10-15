@@ -28,7 +28,6 @@ Aplikasi kalkulator dan visualisasi geometri berbasis desktop yang dibangun meng
 
 ## 💻 Cara Menjalankan Program
 
-1. Unduh atau salin (*clone*) repositori ini:
-   ```bash
-   git clone [https://github.com/username/nama-repo.git](https://github.com/username/nama-repo.git)
-   cd nama-repo
+1. Klik tombol hijau Code di halaman GitHub ini.
+2. Pilih Download ZIP.
+3. Ekstrak file zip tersebut di komputermu, lalu buka foldernya.
